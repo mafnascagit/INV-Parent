@@ -1,0 +1,4 @@
+com/inv/core/repositories/PersonRepository.class
+com/inv/core/services/PersonDAO.class
+com/inv/core/services/PersonDAOImpl.class
+com/inv/core/models/Person.class
